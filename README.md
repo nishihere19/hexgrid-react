@@ -10,7 +10,7 @@ Follow these steps:hammer: for contributing:
 
 :pushpin:Create a separate branch for any bug/feature with branch name: <grid/bug>
 
-:white_check_mark:Commit once a program is complete.
+:white_check_mark:Commit once a feature is done/a bug is fixed.
 
 :pencil2:Fetch for any changes in the original repo by creating an upstream using:
 
@@ -37,9 +37,11 @@ Kindly maintain a clean code with proper comments.
 
 Commit messages should be written carefully and describe the changes made.
 
-Create separate PR for a single program update/bug fix.
+Create separate PR for a single feature/bug fix.
   
 
   
 
 # :white_check_mark:All copyrights are reserved
+
+Happy Contributing!
